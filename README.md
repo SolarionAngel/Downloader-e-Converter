@@ -1,9 +1,17 @@
 Downloader e Converter by Solarion
 
-Uma aplicação desktop desenvolvida em Python para baixar e converter vídeos de diversas plataformas com uma interface moderna e responsiva usando PyQt5.
+A powerful desktop application for downloading and converting videos from multiple platforms.
 
 
 ---
+
+🌎 Português | English
+
+> 📌 Leia em: 🇧🇷 Português | 🇺🇸 English
+
+---
+
+🇧🇷 Português
 
 🚀 Recursos Principais
 
@@ -38,17 +46,9 @@ Português | Inglês | Espanhol | Russo | Chinês | Japonês | Francês | Italia
 
 Antes de executar o programa, certifique-se de ter os seguintes requisitos instalados:
 
-1️⃣ Python 3.8 ou superior
-
-🔗 Baixe Python
-
-2️⃣ FFmpeg (necessário para conversão de vídeos e áudios)
-
-🔗 Instale o FFmpeg
-
-3️⃣ Bibliotecas Python
-
-Instale as dependências com:
+🔹 Python 3.8 ou superior → Baixe aqui
+🔹 FFmpeg (necessário para conversão) → Instale aqui
+🔹 Bibliotecas Python → Instale com:
 
 pip install -r requirements.txt
 
@@ -60,7 +60,6 @@ pip install -r requirements.txt
 1️⃣ Clone o repositório
 
 git clone https://github.com/SolarionAngel/Downloader-e-Converter.git
-
 cd Downloader-e-Converter
 
 2️⃣ Instale as dependências
@@ -76,8 +75,6 @@ python "Downloader e Converter by Solarion 1.0.py"
 
 🎯 Como Usar
 
-Interface Principal
-
 1️⃣ Insira a URL do vídeo no campo "Video URL"
 2️⃣ Escolha a pasta de destino no campo "Save Folder"
 3️⃣ Selecione o formato de saída (MP4, MP3, MKV, etc.)
@@ -86,64 +83,148 @@ Interface Principal
 
 Configurações Avançadas
 
-Acesse a aba "Advanced Settings" para:
 ⚙️ Definir o número máximo de threads
 ⚙️ Limitar a largura de banda
 ⚙️ Configurar um proxy (opcional)
 
-Temas e Idiomas
 
-🌙 Ativar Modo Escuro no checkbox "Dark Mode"
-🌍 Alterar idioma no menu suspenso "Language"
+---
+
+🇺🇸 English
+
+🚀 Main Features
+
+📥 Video Download
+
+✅ Supports multiple platforms: YouTube, Instagram, TikTok, Facebook, Twitch, Twitter, Pinterest
+✅ Choose video resolution (144p to 4K)
+✅ Download individual videos or playlists (in development)
+
+🔄 Format Conversion
+
+🎥 Video: MP4, MKV, AVI, MOV, FLV
+🎵 Audio: MP3, WAV
+🎚️ Adjust video resolution and audio bitrate
+
+🎨 Modern Interface
+
+🌙 Dark mode
+🌍 Multi-language support:
+Portuguese | English | Spanish | Russian | Chinese | Japanese | French | Italian | German | Korean
+
+⚙️ Advanced Features
+
+🚀 Bandwidth limitation for downloads
+🛡️ Proxy support
+🔄 Automatic updates (in development)
 
 
 ---
 
-📜 Licença
+🛠️ Prerequisites
 
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para mais detalhes.
+Before running the program, ensure you have the following installed:
+
+🔹 Python 3.8 or higher → Download here
+🔹 FFmpeg (required for conversion) → Install here
+🔹 Python Libraries → Install with:
+
+pip install -r requirements.txt
 
 
 ---
 
-👤 Autor
+📌 Installation
+
+1️⃣ Clone the repository
+
+git clone https://github.com/SolarionAngel/Downloader-e-Converter.git
+cd Downloader-e-Converter
+
+2️⃣ Install dependencies
+
+pip install -r requirements.txt
+
+3️⃣ Run the program
+
+python "Downloader e Converter by Solarion 1.0.py"
+
+
+---
+
+🎯 How to Use
+
+1️⃣ Enter the video URL in the "Video URL" field
+2️⃣ Choose the destination folder in the "Save Folder" field
+3️⃣ Select the output format (MP4, MP3, MKV, etc.)
+4️⃣ Choose the video resolution or audio bitrate
+5️⃣ Click "Start Download" to begin
+
+Advanced Settings
+
+⚙️ Set the maximum number of threads
+⚙️ Limit download bandwidth
+⚙️ Configure a proxy (optional)
+
+
+---
+
+📜 License | Licença
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
+
+
+---
+
+👤 Author | Autor
 
 Solarion
 
 GitHub: @solarion
 
-📧 E-mail: ewertonromane@gmail.com
+📧 Email: ewertonromane@gmail.com
 
 
 
 ---
 
-💡 Agradecimentos
+💡 Agradecimentos | Acknowledgments
 
-🙏 A comunidade PyQt5 por fornecer uma biblioteca poderosa para interfaces gráficas.
-🎬 Ao FFmpeg por possibilitar a conversão de vídeos e áudios.
+🙏 Comunidade PyQt5 por fornecer uma biblioteca gráfica poderosa.
+🎬 FFmpeg por possibilitar a conversão de vídeos e áudios.
 
+🙏 PyQt5 community for providing a powerful GUI library.
+🎬 FFmpeg for enabling video and audio conversion.
 
 ---
 
-⚠️ Problemas Conhecidos
+⚠️ Problemas Conhecidos | Known Issues
 
-❌ A conversão para formatos como AVI e FLV pode ser lenta em hardware menos potente.
+❌ A conversão para AVI e FLV pode ser lenta em hardware menos potente.
 ❌ O suporte a playlists ainda está em desenvolvimento.
 
+❌ Converting to AVI and FLV may be slow on low-end hardware.
+❌ Playlist support is still under development.
 
 ---
 
-🔮 Futuras Melhorias
+🔮 Futuras Melhorias | Future Improvements
 
 ✅ Adicionar suporte a mais plataformas (Vimeo, Dailymotion, etc.)
 ✅ Implementar download de playlists
 ✅ Adicionar suporte a legendas (subtitles)
 ✅ Melhorar a aceleração por hardware (GPU)
 
+✅ Support for more platforms (Vimeo, Dailymotion, etc.)
+✅ Playlist download support
+✅ Subtitle (closed captions) support
+✅ Hardware acceleration (GPU) improvements
 
 ---
 
-Se você gostou do projeto, não se esqueça de deixar uma ⭐ no repositório!
+⭐ If you liked this project, don’t forget to give it a star on GitHub!
+⭐ Se você gostou do projeto, não se esqueça de deixar uma estrela no repositório!
 
-🚀 Obrigado por utilizar o Downloader e Converter by Solarion! 🚀
+🚀 Obrigado por utilizar o Downloader e Converter by Solarion! | Thanks for using Downloader and Converter by Solarion! 🚀
