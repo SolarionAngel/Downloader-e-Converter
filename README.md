@@ -5,6 +5,8 @@
 ![GitHub license](https://img.shields.io/github/license/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
 [![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Scan-blue?logo=virustotal)](https://www.virustotal.com/gui/file/ba04556085a6c69f4136a3c89b8fd99c09f07fc47022896d25809bec58d76d63)
 [![Security Status](https://img.shields.io/badge/Security-Safe-brightgreen?style=flat&logo=virustotal)](https://www.virustotal.com/gui/file/ba04556085a6c69f4136a3c89b8fd99c09f07fc47022896d25809bec58d76d63)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan-blue?style=for-the-badge&logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/ba04556085a6c69f4136a3c89b8fd99c09f07fc47022896d25809bec58d76d63)
+
 
 
 
