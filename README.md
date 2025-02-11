@@ -35,48 +35,29 @@ Instalação
 Siga os passos abaixo para configurar e executar o programa:
 
 Clone o repositório:
-
-bash
-Copy
-git clone https://github.com/seu-usuario/downloader-converter-solarion.git
+git clone [https://github.com/SolarionAngel/Downloader-e-Converter/tree/main]
 cd downloader-converter-solarion
 Instale as dependências:
 
-bash
-Copy
 pip install -r requirements.txt
 Execute o programa:
 
-bash
-Copy
 python "Downloader e Converter by Solarion 1.0.py"
 Como Usar
 Interface Principal:
-
 Insira a URL do vídeo no campo "Video URL".
-
 Escolha a pasta de destino no campo "Save Folder".
-
 Selecione o formato de saída (MP4, MP3, MKV, etc.).
-
 Escolha a resolução do vídeo ou a taxa de bits do áudio.
-
 Clique em "Start Download" para iniciar o download e a conversão.
-
 Configurações Avançadas:
-
 Acesse a aba "Advanced Settings" para:
-
 Definir o número máximo de threads.
-
 Limitar a largura de banda.
-
 Configurar um proxy (opcional).
 
 Temas e Idiomas:
-
 Ative o Modo Escuro no checkbox "Dark Mode".
-
 Altere o idioma no menu suspenso "Language".
 
 Licença
