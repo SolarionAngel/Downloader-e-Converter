@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
+
 Downloader e Converter by Solarion
 
 A powerful desktop application for downloading and converting videos from multiple platforms.
@@ -228,8 +233,3 @@ GitHub: @solarion
 ⭐ Se você gostou do projeto, não se esqueça de deixar uma estrela no repositório!
 
 🚀 Obrigado por utilizar o Downloader e Converter by Solarion! | Thanks for using Downloader and Converter by Solarion! 🚀
-
-![GitHub stars](https://img.shields.io/github/stars/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
