@@ -1,3 +1,4 @@
+![GitHub top language](https://img.shields.io/github/languages/top/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/SolarionAngel/Downloader-e-Converter?style=for-the-badge)
