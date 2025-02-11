@@ -66,6 +66,7 @@ pip install -r requirements.txt
 1️⃣ Clone o repositório
 
 git clone https://github.com/SolarionAngel/Downloader-e-Converter.git
+
 cd Downloader-e-Converter
 
 2️⃣ Instale as dependências
@@ -145,6 +146,7 @@ pip install -r requirements.txt
 1️⃣ Clone the repository
 
 git clone https://github.com/SolarionAngel/Downloader-e-Converter.git
+
 cd Downloader-e-Converter
 
 2️⃣ Install dependencies
