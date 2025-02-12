@@ -10,6 +10,8 @@ Nosso software foi analisado pelo [VirusTotal](https://www.virustotal.com/gui/fi
 
 ![Verificação do VirusTotal](https://github.com/user-attachments/assets/ba276a23-effd-4757-8bc5-77e14af803e9)
 
+---
+
 Downloader e Converter by Solarion
 
 A powerful desktop application for downloading and converting videos from multiple platforms.
