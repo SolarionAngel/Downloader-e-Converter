@@ -72,18 +72,23 @@ Como Instalar o FFmpeg 🎥⚙️
 Baixar o FFmpeg ⬇️:
 
 Acesse FFmpeg.org e baixe a versão para o seu sistema operacional.
+
 Instalação no Windows 🖥️:
 
 Extraia o arquivo ZIP para um diretório, por exemplo, C:\ffmpeg\.
+
 Adicione o caminho C:\ffmpeg\bin à variável de ambiente PATH.
 
 Instalação no Linux 🐧:
 
 Execute no terminal:
+
 sudo apt update
+
 sudo apt install ffmpeg
 
 Verifique a instalação ✅:
+
 Execute ffmpeg -version no terminal. Se aparecer a versão, está tudo certo!
 
 ---
