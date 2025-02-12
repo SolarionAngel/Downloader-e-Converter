@@ -3,6 +3,7 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QVBoxLayout, QLabel, QLi
                              QFileDialog, QComboBox, QTextEdit, QHBoxLayout, QWidget, QCheckBox, QTabWidget,
                              QFormLayout, QSpinBox, QSlider, QMessageBox)
 from PyQt5.QtCore import QThread, pyqtSignal, Qt
+from PyQt5.QtGui import QIcon
 import re
 from qt_material import apply_stylesheet  # Importando o qt-material para temas modernos
 from datetime import datetime  # Para logs detalhados com data/hora
@@ -345,7 +346,8 @@ class DownloaderApp(QMainWindow):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle("Downloader e Converter by Solarion")
+	self.setWindowTitle("Downloader e Converter by Solarion")
+	self.setWindowIcon(QIcon("icone.ico"))
         self.setGeometry(100, 100, 900, 700)
         self.tabs = QTabWidget()
         self.main_tab = QWidget()
