@@ -170,6 +170,30 @@ Before running the program, ensure you have the following installed:
 
 pip install -r requirements.txt
 
+---
+How to Install FFmpeg 🎥⚙️
+
+Download FFmpeg ⬇️:
+
+Visit FFmpeg.org and download the version for your operating system.
+
+Installation on Windows 🖥️:
+
+Extract the ZIP file to a directory, e.g., C:\ffmpeg\.
+
+Add the path C:\ffmpeg\bin to the PATH environment variable.
+
+Installation on Linux 🐧:
+
+Run in the terminal:
+
+sudo apt update
+
+sudo apt install ffmpeg
+
+Check Installation ✅:
+
+Run ffmpeg -version in the terminal. If the version appears, you're good to go!
 
 ---
 
